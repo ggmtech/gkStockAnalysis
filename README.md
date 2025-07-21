@@ -1,7 +1,17 @@
-# Automated Fundamental Analysis via Python
+
+# This repository is for exploring the exisiting works by other exports and adopting to play around
+
+The list of fundamental repository at https://github.com/topics/fundamental-analysis
+The awsome quant at https://github.com/wilsonfreitas/awesome-quant
+
+Quant examples https://github.com/je-suis-tm/quant-trading
+
+Graph poloting etc https://colab.research.google.com/drive/1RT7I9fsNgMsZeqPwxmScPQDiYeUGV99v#scrollTo=9hbISChsHjnW
+
+
+# Fundamental Analysis via Python
 
 This python program rates stocks out of 100 based on valuation, profitability, growth, and price performance metrics, relative to sector.
-
 
 View the file `StockRatings-04.05.22.csv` as an example of the output of this program
 
